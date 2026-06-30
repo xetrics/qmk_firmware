@@ -17,3 +17,9 @@
 #pragma once
 
 #define SN32F2XX_RGB_MATRIX_ROW_PINS {C6, C5, C4, C9, C8, C7, C12, C11, C10, B13, C14, C13, B14, B15, D3}
+
+// Fix Ctrl+Shift+Escape on windows
+#define GRAVE_ESC_CTRL_OVERRIDE
+
+// dont need gui+esc for backtick, bc its on FN1 (caps+escape)
+#define GRAVE_ESC_GUI_OVERRIDE
