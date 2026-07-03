@@ -1,6 +1,6 @@
 ## Keymap
 
-![Keymap](xetrics_keymap.svg)
+![Keymap](my_keymap.png)
 
 ## Setup
 
