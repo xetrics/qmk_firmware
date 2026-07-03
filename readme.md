@@ -1,6 +1,6 @@
 ## Keymap
 
-![Keymap](my_keymap.png)
+![Keymap](/my_keymap.png)
 
 ## Setup
 
